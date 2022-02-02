@@ -1,5 +1,5 @@
 [submodule "Generative/AbstractFactory"]
-	url = https://github.com/rhiskey/AbstractFactory
+	url = https://github.com/rhiskey/AbstractFactory.git
 [submodule "Generative/Builder"]
 	url = https://github.com/rhiskey/Builder.git
 [submodule "Generative/FactoryMethod _ Singleton"]
@@ -13,8 +13,8 @@
 [submodule "Structural/Decorator"]
 	url = https://github.com/rhiskey/Decorator.git
 [submodule "Structural/Facade"]
-	url = https://github.com/rhiskey/Facade
+	url = https://github.com/rhiskey/Facade.git
 [submodule "Structural/Lightweight"]
-	url = https://github.com/rhiskey/Lightweight
+	url = https://github.com/rhiskey/Lightweight.git
 [submodule "Structural/Proxy"]
-	url = https://github.com/rhiskey/Proxy
+	url = https://github.com/rhiskey/Proxy.git
