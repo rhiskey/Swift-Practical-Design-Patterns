@@ -29,10 +29,14 @@
 	path = Structural/Proxy
 	url = https://github.com/rhiskey/Proxy.git
 [submodule "Behavioral/Command"]
+	path = Behavioral/Command
 	url = https://github.com/rhiskey/Command.git
 [submodule "Behavioral/Memento"]
+	path = Behavioral/Memento
 	url = https://github.com/rhiskey/Memento.git
 [submodule "Behavioral/Observer"]
+	path = Behavioral/Observer
 	url = https://github.com/rhiskey/Observer.git
 [submodule "Behavioral/Visitor"]
+	path = Behavioral/Visitor
 	url = https://github.com/rhiskey/Visitor.git
