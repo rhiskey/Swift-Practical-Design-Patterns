@@ -1,20 +1,30 @@
 [submodule "Generative/AbstractFactory"]
+	path = Generative/AbstractFactory
 	url = https://github.com/rhiskey/AbstractFactory.git
 [submodule "Generative/Builder"]
+	path = Generative/Builder
 	url = https://github.com/rhiskey/Builder.git
 [submodule "Generative/FactoryMethod _ Singleton"]
+	path = Generative/FactoryMethod _ Singleton
 	url = https://github.com/rhiskey/FactoryMethod-_-Singleton.git
 [submodule "Structural/Adapter"]
+	path = Structural/Adapter
 	url = https://github.com/rhiskey/Adapter.git
 [submodule "Structural/Bridge"]
+	path = Structural/Bridge
 	url = https://github.com/rhiskey/Bridge.git
 [submodule "Structural/Compose"]
+	path = Structural/Compose
 	url = https://github.com/rhiskey/Compose.git
 [submodule "Structural/Decorator"]
+	path = Structural/Decorator
 	url = https://github.com/rhiskey/Decorator.git
 [submodule "Structural/Facade"]
+	path = Structural/Facade
 	url = https://github.com/rhiskey/Facade.git
 [submodule "Structural/Lightweight"]
+	path = Structural/Lightweight
 	url = https://github.com/rhiskey/Lightweight.git
-[submodule "Structural/Proxy"]
+[submodule "Structural/Proxy"]	
+	path = Structural/Proxy
 	url = https://github.com/rhiskey/Proxy.git
