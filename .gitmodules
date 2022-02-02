@@ -34,3 +34,5 @@
 	url = https://github.com/rhiskey/Memento.git
 [submodule "Behavioral/Observer"]
 	url = https://github.com/rhiskey/Observer.git
+[submodule "Behavioral/Visitor"]
+	url = https://github.com/rhiskey/Visitor.git
