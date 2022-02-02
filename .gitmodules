@@ -1,5 +1,5 @@
 [submodule "Generative/AbstractFactory"]
-	url = https://github.com/rhiskey/AbstractFactory.git
+	url = https://github.com/rhiskey/AbstractFactory
 [submodule "Generative/Builder"]
 	url = https://github.com/rhiskey/Builder.git
 [submodule "Generative/FactoryMethod _ Singleton"]
